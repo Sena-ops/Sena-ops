@@ -1,6 +1,6 @@
-# 🧑🏻‍💻 Kayque Miqueias
+# 🧑🏻‍💻 Raphael Sena Olicerio
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor`**
 
 ## 👨🏻‍💻 Sobre mim  
 
@@ -28,8 +28,7 @@ Sou apaixonado por tecnologia e inovação. Busco constantemente aprender algo n
 
 ### 📱 Vamos nos conectar!  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kayque.mab/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayque-miqueias-463581326/)  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/raphael-sena-42b933204?trk)  
 
 ---
 
@@ -39,6 +38,7 @@ Sou apaixonado por tecnologia e inovação. Busco constantemente aprender algo n
   <img height="50" title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" alt="Algoritmos" style="margin-right: 15px;">  
   <img height="50" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="margin-right: 15px;">  
   <img height="50" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="margin-right: 15px;">  
+  <img height="50" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" style="margin-right: 15px;"> 
 </div>  
 
 ---
@@ -46,6 +46,6 @@ Sou apaixonado por tecnologia e inovação. Busco constantemente aprender algo n
 ### 📊 Estatísticas  
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kayquemab&theme=tokyonight" alt="Kayque Miqueias GitHub Stats"/>  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquemab&layout=compact&theme=tokyonight&hide-border=true" alt="Kayque Miqueias GitHub Lang Stats"/>  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sena-ops&theme=tokyonight" alt="Raphael Sena GitHub Stats"/>  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sena-ops&layout=compact&theme=tokyonight&hide-border=true" alt="Raphael Sena GitHub Lang Stats"/>  
 </div>  
