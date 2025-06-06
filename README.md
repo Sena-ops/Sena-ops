@@ -35,10 +35,18 @@ Sou movido pela vontade de aprender, inovar e resolver problemas reais com tecno
 ### 🤖 Linguagens e Tecnologias  
 
 <div align="left">  
-  <img height="50" title="Algoritmos" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" alt="Algoritmos" style="margin-right: 15px;">  
+  <img height="50" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" style="margin-right: 15px;">
+  <img height="50" title="AzureDevOps" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="AzureDevOps" style="margin-right: 15px;">
   <img height="50" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" style="margin-right: 15px;">  
   <img height="50" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" style="margin-right: 15px;">  
-  <img height="50" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" style="margin-right: 15px;"> 
+  <img height="50" title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" style="margin-right: 15px;">
+  <img height="50" title="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" style="margin-right: 15px;">
+  <img height="50" title="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" style="margin-right: 15px;">
+  <img height="50" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" style="margin-right: 15px;">
+  
+  
+  
+
 </div>  
 
 ---
