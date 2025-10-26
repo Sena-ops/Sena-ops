@@ -1,29 +1,27 @@
-# 🧑🏻‍💻 Raphael Sena Olicerio
+# 👨🏻‍💻 Raphael Sena Olicerio
 
-**`Desenvolvedor`**
+**Desenvolvedor Fullstack | Cloud & Automação**
 
-## 👨🏻‍💻 Sobre mim  
+## 🚀 Sobre mim
 
-🎓 **Em Direção à Engenharia de Software e Cloud**
+Desenvolvedor com foco em Backend. Formado em Jogos Digitais, atualmente cursando Ciência da Computação.
 
-Sou formado em Jogos Digitais e atualmente curso Ciência da Computação. Minha jornada tem sido focada em expandir habilidades técnicas que vão desde o desenvolvimento de software até a infraestrutura em nuvem, com o objetivo de atuar de forma completa e estratégica em projetos de tecnologia.
+Atuo como estagiário de TI, onde automatizo processos com PowerShell e Power Automate, realizo manutenção de APIs .NET e desenvolvimento frontend com React em ambientes Azure e Microsoft 365.
 
-💻 **Objetivo Profissional**
+## 💻 Tech Stack
 
-Quero me tornar um Desenvolvedor Full Stack com forte atuação em ambientes de Cloud, combinando boas práticas de codificação, automação e segurança para criar soluções robustas e escaláveis que ofereçam valor real ao usuário e ao negócio.
+**Linguagens:** C#, Java, Go, Python, TypeScript/JavaScript  
+**Frontend:** React.js  
+**Backend:** .NET, Node.js  
+**Cloud & DevOps:** Azure, Microsoft 365, PowerShell, Git, Azure DevOps  
+**Automação:** Power Automate, Power Apps, Microsoft Graph API
 
-📚 **Aprendizados em Andamento**
+## 🎯 Foco atual
 
-Atualmente estou aprofundando meus conhecimentos em infraestrutura cloud (Azure), automação com PowerShell, versionamento com Git e desenvolvimento backend com Python e C#. Também mantenho foco constante em práticas de qualidade, documentação e segurança.
-
-💼 **Experiência Prática**
-
-Atuo como estagiário em infraestrutura cloud na K2M Soluções, onde automatizo processos, colaboro com times técnicos e documento soluções que suportam ambientes corporativos. Também tenho experiência com suporte à redes e ferramentas como Azure DevOps, Git e Microsoft 365.
-
-🚀 **O que me Motiva**
-
-Sou movido pela vontade de aprender, inovar e resolver problemas reais com tecnologia. Gosto de trabalhar em equipe, compartilhar conhecimento e construir soluções que impactem positivamente as pessoas e o ambiente ao meu redor.
-
+- Desenvolvimento Fullstack (.NET + React)
+- Automação de processos em Cloud
+- Práticas DevSecOps
+- Segurança em ambientes corporativos (Zero Trust)
 ---
 
 ### 📱 Vamos nos conectar!  
